@@ -1,0 +1,62 @@
+header{
+  li{
+    padding: 0em 1em;
+  }
+}
+.feature{
+  padding: 6em 0em;
+}
+
+.text-center{
+  text-align: center;
+}
+
+.text-left{
+  text-align: left;
+}
+
+.text-right{
+  text-align: right;
+}
+
+.row-padding-bottom-sm{
+  padding-bottom: 4em;
+}
+
+#carousel_slide{
+  .carousel-item{
+    img{
+      max-width: 100%;
+      max-height: 600%;
+      min-height: 400px;
+    }
+  }
+}
+#famous-teachers{
+  img{
+    width: 220px;
+    height: 220px;
+  }
+}
+
+#courses{
+  background:  #303841;
+  h2{
+    color: white;
+  }
+}
+
+#features{
+  img{
+    -webkit-box-shadow: -1px -1px 58px -13px rgba(0, 0, 0, 0.9);
+    -moz-box-shadow: -1px -1px 58px -13px rgba(0, 0, 0, 0.9);
+    -ms-box-shadow: -1px -1px 58px -13px rgba(0, 0, 0, 0.9);
+    -o-box-shadow: -1px -1px 58px -13px rgba(0, 0, 0, 0.9);
+    box-shadow: -1px -1px 58px -13px rgba(0, 0, 0, 0.9);
+    max-width: 100%;
+  }
+}
+
+footer{
+  margin: 100px;
+}
